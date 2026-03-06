@@ -101,7 +101,4 @@ By proactively connecting individuals with sustainability initiatives, the platf
 - Sidharth S  
 - Gowri R R  
 
-
-This project is developed for **educational and research purposes** and can be extended for real-world sustainability platforms.
-
 ---
