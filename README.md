@@ -65,11 +65,6 @@ Sends **personalized email digests** containing:
 Sustainify/
 │
 ├── app.py
-├── agent.py
-├── scheduler.py
-├── users.csv
-├── opportunities.csv
-│
 └── templates/
     └── index.html
 ```
