@@ -1,4 +1,4 @@
-🌿 Sustainify: Proactive Community Sustainability Companion
+#🌿 Sustainify: Proactive Community Sustainability Companion
 Sustainify is a web-based sustainability companion powered by agentic AI. It transforms passive sustainability platforms into proactive, personalized assistants. Aligned with SDG 11: Sustainable Cities and Communities, Sustainify empowers users to engage in local green activities, discover eco-conscious options, and take consistent sustainable actions — all with minimal effort.
 
 🎯Sustainable Development Goal
